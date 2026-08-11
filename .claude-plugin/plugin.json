@@ -1,0 +1,17 @@
+{
+  "name": "shuttle-diplomacy",
+  "version": "1.0.0",
+  "description": "Organizes separate supplied accounts into a neutral mediation brief without adjudicating intent or fault. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "author": {
+    "name": "Andrew Luxem"
+  },
+  "homepage": "https://github.com/andrewluxem/shuttle-diplomacy",
+  "repository": "https://github.com/andrewluxem/shuttle-diplomacy",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "mediation",
+    "conversation-plan"
+  ]
+}
